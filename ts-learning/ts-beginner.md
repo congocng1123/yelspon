@@ -41,3 +41,32 @@
 
     the reason is that "type assertion" are purely a compile time construct and a way for you to provide hints to the compiler on how you want your code to be analyzed.
 
+## 1.3 Variable Scope
+
+- **Global Scope**
+
+- **Class Scope**
+
+  These variables are also called **fields**, which are declared within the class but outside the method.
+
+- **Local Scope**
+
+  Variables which are declared in method is **Local** Variables.
+
+# 2. Operators
+
+## 2.1 What is an Operator/operand?
+
+​    An operator defines some function that will be performed on the data. The data on which operators work are called **operands**.
+
+- Arithmetic operators
+- Logical operators
+- Relational operators
+- Bitwise operators
+- Assignment operators
+- Ternary/conditional operator
+- String operator
+- Type Operator
+
+
+
